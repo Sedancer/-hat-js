@@ -1,7 +1,7 @@
 {
   "name": "components_1303_2130",
   "version": "1.0.0",
-  "description": "Учебный проект. Чат.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iketari/components_1303_2130.git"
+    "url": ""
   },
-  "author": "Artsiom Mezin",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iketari/components_1303_2130/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/iketari/components_1303_2130#readme",
+  "homepage": "",
   "devDependencies": {
     "jsdoc-to-markdown": "^3.0.0",
     "jshint": "^2.9.4",
